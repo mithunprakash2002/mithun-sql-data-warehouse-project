@@ -64,4 +64,4 @@ data-warehouse-project/
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
 
 ## 🌟 About Me
-Hi there! I'm Mithun P. I’m a BCA student, trying to make it in this big world. Please support me. A big shout out to DATA WITH BARAA as he was the inspiration behind this project. I learnt majority of SQL in his youtube channel. I made this project looking at him making a project.
+Hi there! I'm Mithun P. I’m a BCA student, trying to make it in this big world. Please support me. A big shout out to DATA WITH BARAA as he was the inspiration behind this project. I learnt majority of SQL in his youtube channel. I made this project looking at him making a project on same topic.
